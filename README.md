@@ -1,10 +1,10 @@
 # pokey
 
 ### What
-http server that responds with random text
+Http server that responds with random text after a delay. The size of response and delay time are configurable, defaults to 0 msec and 1024 bytes.
 
 ### Why
-handy for testing
+Handy for testing?
 
 ### How
 You can specify size of response and delay via query parameters, like so:
