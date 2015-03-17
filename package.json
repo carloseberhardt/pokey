@@ -1,0 +1,19 @@
+{
+  "name": "pokey",
+  "version": "0.0.1",
+  "description": "http test server with variable payload and delay",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carloseberhardt/pokey.git"
+  },
+  "author": "Carlos Eberhardt <carlos.eberhardt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloseberhardt/pokey/issues"
+  },
+  "homepage": "https://github.com/carloseberhardt/pokey"
+}
